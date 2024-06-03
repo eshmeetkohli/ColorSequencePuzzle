@@ -1,5 +1,4 @@
 # ColorSequencePuzzle
-# ColorSequencePuzzle
 
 ## Overview
 **ColorSequencePuzzle** is a Java-based color sorting puzzle game developed using the AWT library. The game challenges players to sort colors into the correct stacks using a simple graphical user interface.
